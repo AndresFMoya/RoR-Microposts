@@ -1,24 +1,5 @@
-# README
+# RoR - Testing on RAILS
+This is the first section of the second project of the Main Ruby on Rails curriculum at Microverse. The goal is to Build and Test the sample application as in Ruby on Rails Tutorial by Michael Hartl.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Contributor
+Andres F. Moya [My GitHub Profile](https://github.com/AndresFMoya)

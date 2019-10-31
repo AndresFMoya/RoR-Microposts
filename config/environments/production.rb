@@ -12,7 +12,7 @@ Rails.application.configure do
     :password       => ENV['SENDGRID_PASSWORD'],
     :domain         => 'heroku.com',
     :enable_starttls_auto => true
-
+  }
   # Code is not reloaded between requests.
   config.cache_classes = true
 

@@ -1,0 +1,2 @@
+class MicropostController < ApplicationController
+end

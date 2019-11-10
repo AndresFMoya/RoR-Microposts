@@ -1,9 +1,8 @@
 linters:
   rubocop:
     display_cop_names: true
-    fixer: true
-fixers:
-    enable: true
+    config: './rubocop.yml'
+
 files:
   ignore:
     - "bin/*"
@@ -11,3 +10,5 @@ files:
     - "config/*"
     - "Guardfile"
     - "Rakefile"
+
+# find full documentation here: https://stickler-ci.com/docs

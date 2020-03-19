@@ -1,5 +1,7 @@
-## Ruby on Rails MicroPosts
-
+<p>
+  <h1 align="center">Ruby on Rails MicroPosts</h1>
+</p>
+<br>
 This project consist of building and Test a Micropost Web Application as in Ruby on Rails Book of Michael Hartl.  This application includes examples of all the major features of Rails, including models, views, controllers, templates, partials, filters, validations, callbacks, has_many/belongs_to and has_many :through associations, security, testing, and deployment.
 
 ## Technologies used
@@ -79,4 +81,9 @@ I will love to hear about you at one of the following places! :heart:
 - [LinkedIn](https://www.linkedin.com/in/andres-f-moya/)
 - [Twitter](https://www.twitter.com/andmedev/) 
 - <andresfmoya@gmail.com>.
-- <https://andresmoya.me>
+
+<p align="center">
+  <strong>
+    <a href="https://andresmoya.me">andresmoya.me</a>
+</strong>
+</p>
